@@ -1,2 +1,2 @@
 # JavaFinalProject-Team1
-FrontEnd : Govardhana D &amp; Prathyusha  , BackEnd : Usha kola sravani &amp; Vykuntam Krishna  , Database : Pujitha 
+FrontEnd : Govardhana D & Prathyusha  , BackEnd : Usha Sravani Kola & Vykuntam Krishna  , Database : Pujitha 
